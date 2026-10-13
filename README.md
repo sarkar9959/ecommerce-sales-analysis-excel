@@ -54,4 +54,6 @@ This project analyzes e-commerce transaction data to uncover insights on sales p
 
 ## 📸 Preview
 
-![Dashboard Screenshot](#) 
+## 📸 Preview
+
+![Dashboard Preview](Dashboard.png)
