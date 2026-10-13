@@ -54,6 +54,8 @@ This project analyzes e-commerce transaction data to uncover insights on sales p
 
 ## 📸 Preview
 
-## 📸 Preview
-
 ![Dashboard Preview](Dashboard.png)
+
+## 📬 Contact
+
+📧 Email: polashsarkar.data@gmail.com
